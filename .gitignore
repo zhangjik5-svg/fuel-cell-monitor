@@ -1,0 +1,18 @@
+# Python / IDE
+**/.venv/
+**/__pycache__/
+**/.idea/
+*.py[cod]
+
+# Local runtime output
+**/logs/
+**/debug.log
+**/*.xlsx
+**/*.log
+
+# Vendor documents and local-only references
+*.pdf
+
+# OS files
+Thumbs.db
+Desktop.ini
