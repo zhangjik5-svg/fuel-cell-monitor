@@ -1,0 +1,8 @@
+[project]
+name = "tch-fc-monitor-v2"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "openpyxl>=3.1.5",
+    "pyserial>=3.5",
+]
